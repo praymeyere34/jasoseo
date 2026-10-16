@@ -1,0 +1,1 @@
+ALTER TABLE `workspaces` ADD `background` text DEFAULT '{}' NOT NULL;

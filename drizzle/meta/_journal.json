@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1789826572680,
+      "tag": "0000_soft_carmella_unuscione",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1790077222138,
+      "tag": "0001_curious_darwin",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1790083947059,
+      "tag": "0002_daffy_mister_fear",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1790130789809,
+      "tag": "0003_uneven_norrin_radd",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1790135391491,
+      "tag": "0004_perfect_sharon_carter",
+      "breakpoints": true
+    }
+  ]
+}
